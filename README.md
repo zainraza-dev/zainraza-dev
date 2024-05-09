@@ -1,13 +1,13 @@
 ![logo](https://github.com/zainraza-dev/zainraza-dev/blob/main/zainraza.dev.jpg)
 
 <h1 align="center">Hi 👋, I'm Zain Raza</h1>
-<h3 align="center">A Passionate Website Developer</h3>
+<h3 align="center">A Passionate 𝗪𝗲𝗯𝘀𝗶𝘁𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 I love making 𝗖𝘂𝘀𝘁𝗼𝗺, 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝘃𝗲, 𝗠𝗼𝗱𝗲𝗿𝗻 and 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗪𝗲𝗯𝘀𝗶𝘁𝗲𝘀 that 𝗕𝗼𝗼𝘀𝘁 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀𝗲𝘀.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainraza-dev&label=Profile%20views&color=0e75b6&style=flat" alt="zainraza-dev" /> </p>
 
-- 👨‍💻 Visit My Portfolio [www.zainraza.dev](www.zainraza.dev)
+- 👨‍💻 Visit My Portfolio: [www.zainraza.dev](www.zainraza.dev)
 
-- 📫 How to reach me **contact@zainraza.dev**
+- 📩 Email Address: **contact@zainraza.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
