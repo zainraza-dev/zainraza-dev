@@ -31,14 +31,12 @@
 
 
 
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zainraza-dev&" alt="zainraza-dev" /></p>
 
-<div>
-<img width=325 align="center" src="https://github-readme-stats-zainraza-dev.vercel.app/api/top-langs/?username=zainraza-dev&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 
-<div>
-<img width=325 align="center" src="https://github-readme-stats-zainraza-dev.vercel.app/api/top-langs/?username=zainraza-dev&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+
+<h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+For+Visiting+;" />
+</h2>
+
+
