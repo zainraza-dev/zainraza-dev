@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Passionate+Website+Developer+;" />
 </h2>
 
-<h3 align="center">I love making 𝗖𝘂𝘀𝘁𝗼𝗺, 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝘃𝗲, 𝗠𝗼𝗱𝗲𝗿𝗻 and 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗪𝗲𝗯𝘀𝗶𝘁𝗲𝘀</h3>
+<h3 align="center">I love making Custom, Responsive, Modern and Professional Websites</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainraza-dev&label=Profile%20views&color=0e75b6&style=flat" alt="zainraza-dev" /> </p>
 
